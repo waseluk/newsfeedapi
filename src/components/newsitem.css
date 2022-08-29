@@ -1,0 +1,18 @@
+.news-app {
+    display: flex;
+    justify-content: center;
+}
+
+.news-item {
+    width: 500px;
+    padding: 20px;
+    border: 5px solid;
+    margin-bottom: 20px;
+    border-radius: 5%;
+    -webkit-border-radius: 5%;
+    -moz-border-radius: 5%;
+    -ms-border-radius: 5%;
+    -o-border-radius: 5%;
+    border-color:darkolivegreen;
+}
+
