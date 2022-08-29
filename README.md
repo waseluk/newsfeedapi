@@ -1,7 +1,12 @@
+Just a quick little playaround with API's, testing knowledge on React. This app fetches articles from 'Gnews' and assigns them with their images and titles. This can be used as itself or expanded.
+React - npx create-react-app ((name))
+** uses axios so npm i axios **
 
-** uses axios so don't forget to npm i axios **
+I used API - 'gnews' - https://gnews.io/login
 
-I used API - 'gnews'.
+** You will need to change axios.get //const response = await axios.get(..)// and insert your own key after signing up.
+
+Happy Coding!
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
